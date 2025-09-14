@@ -1,7 +1,5 @@
-package com.abdullah.my_university  
+package com.example.my_university
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity() {
-
-}
+class MainActivity: FlutterActivity()
